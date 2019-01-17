@@ -1,12 +1,20 @@
 {
   "name": "typescript-deep-dive-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "[Using Jest with Typescript](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnryjmes/typescript-deep-dive-jest.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnryjmes/typescript-deep-dive-jest/issues"
+  },
+  "homepage": "https://github.com/hnryjmes/typescript-deep-dive-jest#readme"
 }
